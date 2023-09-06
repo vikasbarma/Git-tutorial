@@ -25,3 +25,5 @@ git diff --staged
 git diff head
 git log //see the commit what you have changes
 git log -p -1 //see the commit noo you have changes
+git rm "filr_name" //remove the file
+git rm -cached "File_name" //remove from untracked file. 
