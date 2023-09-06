@@ -19,3 +19,4 @@ git add "file_name" //add on git
 git commit -m "commit" //commiting
 
 git checkout "file_name"//undo the file which has not committed.
+what the changes had to do by using command git diff
