@@ -20,3 +20,8 @@ git commit -m "commit" //commiting
 
 git checkout "file_name"//undo the file which has not committed.
 what the changes had to do by using command git diff
+
+git diff --staged
+git diff head
+git log //see the commit what you have changes
+git log -p -1 //see the commit noo you have changes
