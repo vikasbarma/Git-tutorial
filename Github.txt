@@ -41,6 +41,15 @@ switch into another branch
 By using branch it can't change in master it can change only in branch login.
 Delete branch
 --git branch -D "file_name"
+create and switch branch
+--git branch -b "file-name"
+----------------------------------------------------------------------
+Merge
+while doing merge from branch into master intially merge into master from branch
+-- git merge master --they are present in branch merge into master
+goes to another master branch run same command
+--git merge login  --this command run in master branch
+
 
 
 
