@@ -1,0 +1,17 @@
+Create an account of github for storing repositories as well working on project.
+when do changes that finalize is known as commit.
+
+GitHub can be used in website
+Git can be run on the user system.
+
+ls  list of folder
+pwd path way of directory
+set the username and email to config in github
+cmd are:
+git config --global user.name""
+git config --global user.email ""
+
+clone: clone your reposotory in your local machine  (git clone<link>) 
+status: display the state of the code (git status)
+
+cd=change directory
