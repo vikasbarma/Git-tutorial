@@ -27,3 +27,21 @@ git log //see the commit what you have changes
 git log -p -1 //see the commit noo you have changes
 git rm "filr_name" //remove the file
 git rm -cached "File_name" //remove from untracked file. 
+--------------------------------------------------------------------------------------------------------------------------------------
+Branch
+when the git is installised by default it goes in master
+it can create branch(temporary view) that files copies into that another branch
+whatever changes has changed by developer it can commmit into their file not effect in master..
+check the list of branch
+--git branch --list
+create branch
+--git branch "branch name"
+switch into another branch
+--git checkout "branch_name"
+By using branch it can't change in master it can change only in branch login.
+Delete branch
+--git branch -D "file_name"
+
+
+
+ 
