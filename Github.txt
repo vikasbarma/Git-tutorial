@@ -49,7 +49,12 @@ while doing merge from branch into master intially merge into master from branch
 -- git merge master --they are present in branch merge into master
 goes to another master branch run same command
 --git merge login  --this command run in master branch
-
+--------------------------------------------------------------------------------
+GitHub On;ine push
+The following commands
+--git remote add origin link
+--git branch -M main	
+--git push -u origin main
 
 
 
