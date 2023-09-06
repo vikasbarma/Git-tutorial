@@ -15,3 +15,7 @@ clone: clone your reposotory in your local machine  (git clone<link>)
 status: display the state of the code (git status)
 
 cd=change directory
+git add "file_name" //add on git
+git commit -m "commit" //commiting
+
+git checkout "file_name"//undo the file which has not committed.
