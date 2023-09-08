@@ -1,0 +1,22 @@
+jars(java archieve)
+===============================
+It is a collection and bundles of java class file
+====================================
+wars(web archieve)
+In wars file all web application has been zip into one folder is known as wars.
+advantage: Transportion is easy.
+=================================================
+Ear(Enterprise archieve) Enterprise application.
+
+In Ear file Jms,JDBC,others files can be run using ear file.
+==============================
+
+jsp Expression <%= some java expression%>
+
+expression add object& Expression --<%= java.util.Date%>
+Jsp scriptlet <% some java code :1 or many lines%>
+Jsp declaration<%! variable and method%>(Dleclare a method) 
+=======================================
+calling jsp page 
+<jsp:include page="my-header.html"/>
+<jsp:include page="my-footer.jsp"/>

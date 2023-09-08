@@ -6,8 +6,38 @@
     <title>Home page</title>
 </head>
 <body>
-    <h1>welcome to our Github</h1>
-    <p>This is the learning of Github</p>
+    <form action="index.jsp" method="post">
+        <table style="align-self: center;">
+            <tr>
+                <th colspan="2" style="padding: 20px;"><h3>Registration Page</h3></th>
+            </tr>
+            <tr>
+                <td>Name</td><td><input type="text" name="rname"></td>
+            </tr>
+            <tr>
+                <td>Email</td><td><input type="email" name="remail" id=""></td>
+            </tr>
+            <tr>
+                <td>Gender</td><td>Male <input type="radio" name="rgender" value="Male"><td>Female <input type="radio" name="rgender" value="Female"></td></td>
+            </tr>
+            <tr>
+                <td>Enter password</td> <td><input type="password" name="renterpassword"></td>
+            </tr>
+            <tr>
+                <td>Confirm password</td> <td><input type="password" name="rconfirmpassword"></td>
+            </tr>
+            <tr>
+                <td colspan="2" style="padding: 20px;"><input type="submit" value="singnup"><td><input type="reset" value="clean"></td></td>
+            </tr>
+        </table>
+    </form>
+    <select>
+        <option name="country " value="">India</option>
+        <option name="country" value="">Brazil</option>
+        <option name="country" value="">china</option>
+        <option name="country" value="">Russia</option>
+        <option name="country" value="">South Africa</option>
+    </select>
     
 </body>
 </html>
