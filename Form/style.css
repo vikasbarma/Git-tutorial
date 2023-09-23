@@ -2,6 +2,7 @@ body{
     margin: 0;
     padding: 0;
     background: url("used.jpg");
+    background-repeat: no-repeat;
     background-size: 280%;
     background-position: -400px 0px;
 }
